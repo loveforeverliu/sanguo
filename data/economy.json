@@ -1,0 +1,19 @@
+{
+  "tax_rate": 0.25,
+  "civilian_grain_per_turn": 1.0,
+  "soldier_grain_per_turn": 1.0,
+  "soldier_coin_per_turn": 0.5,
+  "farm_level_coeff": [0.0, 1.2, 1.5, 1.8, 2.2, 2.5],
+  "government_level_coeff": [0.0, 1.0, 1.3, 1.6, 2.0, 2.5],
+  "grain_storage_per_government": 5000,
+  "grain_storage_per_farm": 500,
+  "population_base": 500,
+  "population_per_government": 200,
+  "population_per_house": 200,
+  "population_growth_base": 3.0,
+  "population_growth_food_factor": 0.5,
+  "recruit_cost_grain": 3.0,
+  "recruit_cost_coin": 2.0,
+  "building_upgrade_cost_mult": 1.7,
+  "tavern_recruit_cost": 200
+}

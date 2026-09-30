@@ -1,0 +1,5 @@
+res://scripts/autoload/game.gd
+res://scripts/combat/battle.gd
+res://scripts/models/city.gd
+res://scripts/models/general.gd
+res://scripts/ui/tavern_panel.gd

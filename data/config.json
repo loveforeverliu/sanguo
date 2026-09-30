@@ -1,0 +1,12 @@
+{
+  "start_coin": 1000,
+  "start_grain": 2000,
+  "player_faction": "wei",
+  "player_city": "henan",
+  "start_city": {
+    "trait": "fertile",
+    "civilians": 500,
+    "buildings": {"government": 1, "farm": 1, "tavern": 1, "infantry_camp": 1}
+  },
+  "city_defaults": {"civilians": 300, "garrison": 200}
+}

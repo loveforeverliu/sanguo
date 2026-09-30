@@ -1,0 +1,6 @@
+{
+  "wei": {"id": "wei", "name": "魏", "abbr": "魏", "color": "#4a7db5", "ruler": "曹操"},
+  "shu": {"id": "shu", "name": "蜀", "abbr": "蜀", "color": "#c05555", "ruler": "刘备"},
+  "wu":  {"id": "wu",  "name": "吴", "abbr": "吴", "color": "#4a9e5a", "ruler": "孙权"},
+  "qun": {"id": "qun", "name": "群雄", "abbr": "群", "color": "#b08a3a", "ruler": "—"}
+}

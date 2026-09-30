@@ -1,0 +1,29 @@
+{
+  "level_cap": 100,
+  "quality_points": {
+    "普通": {"fixed": 1, "free": 2},
+    "优秀": {"fixed": 2, "free": 2},
+    "稀有": {"fixed": 3, "free": 2},
+    "史诗": {"fixed": 4, "free": 2},
+    "传奇": {"fixed": 5, "free": 2}
+  },
+  "exp_base": 100,
+  "exp_growth": 1.2,
+  "drill_cost_tiers": [
+    {"min": 1, "max": 20, "coin": 50, "grain": 50},
+    {"min": 21, "max": 50, "coin": 150, "grain": 150},
+    {"min": 51, "max": 80, "coin": 400, "grain": 400},
+    {"min": 81, "max": 100, "coin": 800, "grain": 800}
+  ],
+  "battle_exp_base": 20,
+  "battle_exp_per_kill": 0.1,
+  "drill_exp": 100,
+  "loyalty": {
+    "persuade_base": 0.5,
+    "persuade_per_10_loyalty": 0.05,
+    "persuade_per_1000_coin": 0.02,
+    "capture_excellent": 0.50,
+    "capture_epic": 0.35,
+    "capture_legendary": 0.20
+  }
+}

@@ -1,0 +1,9 @@
+[
+  {"id": "government", "name": "官府", "category": "core", "max_level": 5, "base_cost": 200, "cost_mult": 1.8, "effect": "coin", "desc": "铜钱产出"},
+  {"id": "farm", "name": "农田", "category": "core", "max_level": 5, "base_cost": 150, "cost_mult": 1.8, "effect": "grain", "desc": "粮草产出"},
+  {"id": "tavern", "name": "酒馆", "category": "core", "max_level": 3, "base_cost": 300, "cost_mult": 2.0, "effect": "tavern", "desc": "招募武将"},
+  {"id": "infantry_camp", "name": "步兵营", "category": "core", "max_level": 5, "base_cost": 150, "cost_mult": 1.6, "effect": "infantry", "desc": "征兵（步兵）"},
+  {"id": "cavalry_camp", "name": "骑兵营地", "category": "dev", "max_level": 5, "base_cost": 300, "cost_mult": 1.8, "effect": "cavalry", "desc": "征兵（骑兵）"},
+  {"id": "archer_camp", "name": "弓兵营地", "category": "dev", "max_level": 5, "base_cost": 300, "cost_mult": 1.8, "effect": "archer", "desc": "征兵（弓兵）"},
+  {"id": "house", "name": "房屋", "category": "dev", "max_level": 5, "base_cost": 100, "cost_mult": 1.5, "effect": "population", "desc": "人口上限"}
+]

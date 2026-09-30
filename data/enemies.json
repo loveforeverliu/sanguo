@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bandit_camp",
+    "name": "山贼营寨",
+    "troops": {"步兵": 150, "弓兵": 100, "骑兵": 0},
+    "leader": {"wuli": 30, "tongshuai": 20, "int": 10, "speed": 20},
+    "loot": {"coin": 300, "grain": 400}
+  },
+  {
+    "id": "bandit_stronghold",
+    "name": "山贼山寨",
+    "troops": {"步兵": 300, "弓兵": 150, "骑兵": 50},
+    "leader": {"wuli": 50, "tongshuai": 40, "int": 20, "speed": 35},
+    "loot": {"coin": 600, "grain": 800}
+  }
+]

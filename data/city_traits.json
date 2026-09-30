@@ -1,0 +1,8 @@
+{
+  "fertile": {"name": "沃土", "grain_bonus": 0.30},
+  "commerce": {"name": "商贸", "coin_bonus": 0.30},
+  "defensible": {"name": "险要", "defense_bonus": 0.20, "garrison_reduce": 0.10},
+  "abundant": {"name": "丰饶", "population_cap_bonus": 0.20, "population_growth_bonus": 0.10},
+  "mineral": {"name": "矿脉", "siege_speed_bonus": 0.25},
+  "frontier": {"name": "边陲", "recruit_cost_reduce": 0.15, "population_growth_bonus": -0.10}
+}

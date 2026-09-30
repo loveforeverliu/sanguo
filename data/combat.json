@@ -1,0 +1,9 @@
+{
+  "counter_bonus": 0.15,
+  "attack_per_wuli": 0.01,
+  "defense_per_tongshuai": 0.008,
+  "skill_base": 0.2,
+  "skill_per_int": 0.003,
+  "skill_damage_mult": 1.5,
+  "speed_first_strike_bonus": 0.1
+}
